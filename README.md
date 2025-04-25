@@ -63,8 +63,8 @@ plt.axis('off')
 ![Screenshot 2025-04-25 181236](https://github.com/user-attachments/assets/04fa1e60-3d9b-4e64-83e9-47898957ae88)
 
 ## Grayscale
-![image](https://github.com/user-attachments/assets/610c4824-6b61-49cb-8e38-3ca068dd5943)
-
+![Screenshot 2025-04-25 181310](https://github.com/user-attachments/assets/f3e4be04-bccd-4846-a980-6eef04028a30)
+ 
 ## Canny Edge detector output
 ![image](https://github.com/user-attachments/assets/b29f3361-178b-4dde-80fa-15713877e39f)
 
